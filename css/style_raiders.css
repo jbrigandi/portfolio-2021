@@ -1,0 +1,111 @@
+header h2 {
+    font-size: 22px;
+    text-align: center;
+    color: black;
+    line-height: 1.75;
+}
+header p {
+    font-size: 18px;
+    color:black;
+    line-height: 1.75;
+
+}
+
+body {
+    background-color: silver;
+    background-position: center;
+    background-size: cover ;
+    
+
+}
+
+nav{
+    text-align: center;
+    color: black;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    
+}
+
+:visited {
+    color: black;;
+
+}
+
+.raiders-overview-text-block h1 {
+    text-align: center;
+    font-size: 22px;
+    color: black;
+    line-height: 1.75;
+}
+    
+.raiders-overview-text-block p {
+    text-align: center;
+    font-size: 18px;
+    color:black;
+    line-height: 1.75;
+}
+
+.raiders-history-text-block h2 {
+    text-align: center;
+    font-size: 22px;
+    color: black;
+    line-height: 1.75;
+}
+    
+.raiders-history-text-block p {
+    text-align: center;
+    font-size: 18px;
+    color: black;
+    line-height: 1.75;
+}
+
+.raiders-historical-leaders-text-block h2 {
+    text-align: center;
+    font-size: 22px;
+    color: black;
+    line-height: 1.75;
+}
+    
+.raiders-historical-leaders-text-block p {
+    text-align: center;
+    font-size: 18px;
+    color:black;
+    line-height: 1.75;
+}
+
+.raiders-current-leaders-text-block h2 {
+    text-align: center;
+    font-size: 22px;
+    color:black;
+    line-height: 1.75;
+}
+    
+.raiders-current-leaders-text-block p {
+    text-align: center;
+    font-size: 18px;
+    color: black;
+    line-height: 1.75;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+
+
+
+
+
+footer{
+        color: #000000;
+        text-align: center;
+        padding-bottom: 10px;
+        padding-right: 10px;
+        padding-top: 10px;
+        padding-left: 0px;
+}

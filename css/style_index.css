@@ -1,0 +1,98 @@
+header h2 {
+    font-size: 22px;
+    text-align: center;
+    color: white;
+    line-height: 1.75;
+}
+header p {
+    font-size: 18px;
+    color:white;
+    line-height: 1.75;
+
+}
+
+body {
+    background-color: royalblue;
+    background-position: center;
+    background-size: cover ;
+    
+
+}
+
+nav{
+    text-align: center;
+    color: black;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    
+}
+
+:visited {
+    color: black;
+
+}
+
+.NFL-Commissioner-text-block h2 {
+    text-align: center;
+    font-size: 22px;
+    color: white;
+    line-height: 1.75;
+}
+    
+.NFL-Commissioner-text-block p {
+    text-align: center;
+    font-size: 18px;
+    color:white;
+    line-height: 1.75;
+}
+
+.every-team-text-block h2 {
+    text-align: center;
+    font-size: 22px;
+    color:white;
+    line-height: 1.75;
+}
+    
+.every-team-text-block p {
+    text-align: center;
+    font-size: 18px;
+    color: white;
+    line-height: 1.75;
+}
+
+.AFC-West-text-block h2 {
+    text-align: center;
+    font-size: 22px;
+    color: white;
+    line-height: 1.75;
+}
+    
+.AFC-West-text-block p {
+    text-align: center;
+    font-size: 18px;
+    color:white;
+    line-height: 1.75;
+}
+
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+
+
+
+
+
+footer{
+        color: white;
+        text-align: center;
+        padding-bottom: 10px;
+        padding-right: 10px;
+        padding-top: 10px;
+        padding-left: 0px;
+}
